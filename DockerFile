@@ -1,0 +1,4 @@
+#FROM openjdk:18-alpine
+#ADD target/project-1.jar project-1.jar
+#EXPOSE 8080
+#ENTRYPOINT ["java", "-jar", "project-1.jar"]
